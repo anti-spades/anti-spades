@@ -1,7 +1,7 @@
 - 👋 Hi, I’m alex!
 - 👀 I’m interested in web design 
 - 🌱 I’m currently learning angular
-- 📫 How to reach me Spades#1600 
+- 📫 How to reach me discord @Spades#1600 
 
 <!---
 anti-spades/anti-spades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
